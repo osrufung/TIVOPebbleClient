@@ -1,0 +1,30 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "osrufung@gmail.com",
+    "longName": "Tivo",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/TV.PNG.png",
+                "menuIcon": true,
+                "name": "TIVO_LOGO_IMG_ID",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Tivo",
+    "uuid": "23414a62-5561-47eb-9c62-498b855b8dfb",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
